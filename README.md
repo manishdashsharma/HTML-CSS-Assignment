@@ -13,7 +13,7 @@
 **CodeBase:** [02-Project](https://github.com/manishdashsharma/02-Project-HTML-CSS)<br>
 **Deployed link:** [02-Project-link](https://manishdashsharma.github.io/02-Project-HTML-CSS/)<br>
 **Output:**![02-Project](./image/Project2.png)&nbsp;
-
+<br>
 **Project:** 03-Project<br>
 **Project descriptions:** Html and css .<br>
 **CodeBase:** [03-Project](https://github.com/manishdashsharma/03-Project-HTML-CSS)<br>
@@ -46,22 +46,19 @@
 
 ### Blogs
 
-**Blog:** Guide to Media-Query
-**Blog descriptions:** Blog is all about a `Guide to Media-Query`
+**Blog:** Guide to Media-Query<br>
+**Blog descriptions:** Blog is all about a `Guide to Media-Query`<br>
 **Blog link:** [Guide to Media-Query](https://manishashsharma.hashnode.dev/guide-to-media-query)&nbsp;
 
-**Blog:** Guide to flex box
-**Blog descriptions:** Blog is all about a `Guide to flex-box`
+**Blog:** Guide to flex box<br>
+**Blog descriptions:** Blog is all about a `Guide to flex-box`<br>
 **Blog link:** [Guide to flex box](https://manishashsharma.hashnode.dev/guide-to-flex-box)&nbsp;
 
-**Blog:** Guide to CSS Positioning
-**Blog descriptions:** Blog is all about a `Guide to CSS Positioning`
+**Blog:** Guide to CSS Positioning<br>
+**Blog descriptions:** Blog is all about a `Guide to CSS Positioning`<br>
 **Blog link:** [Guide to CSS Positioning](https://manishashsharma.hashnode.dev/guide-to-css-positioning)&nbsp;
 
-**Blog:** Guide to CSS Positioning
-**Blog descriptions:** Blog is all about a `Guide to CSS Positioning`
-**Blog link:** [Guide to CSS Positioning](https://manishashsharma.hashnode.dev/guide-to-flex-box)&nbsp;
 
-**Blog:** CSS-Selectors ?
-**Blog descriptions:** Blog is all about a `CSS-Selectors ?`
+**Blog:** CSS-Selectors ?<br>
+**Blog descriptions:** Blog is all about a `CSS-Selectors ?`<br>
 **Blog link:** [CSS-Selectors](https://manishashsharma.hashnode.dev/css-selectors)&nbsp;
