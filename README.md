@@ -1,8 +1,8 @@
 ## Assignment summary of Bootcamp FSJS 2.0  
 
 ### Projects
-
-1. **Project:** 01-Project
+ 
+- **Project:** 01-Project
 **Project descriptions:** Html and css .
 **CodeBase:** [01-Project](https://github.com/manishdashsharma/01-Project-HTML-CSS)
 **Deployed link:** [01-Project-link](https://manishdashsharma.github.io/01-Project-HTML-CSS/)
