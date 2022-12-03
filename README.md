@@ -1,47 +1,47 @@
 ## Assignment summary of Bootcamp FSJS 2.0  
 
 ### Projects
- 
-- **Project:** 01-Project
-**Project descriptions:** Html and css .
-**CodeBase:** [01-Project](https://github.com/manishdashsharma/01-Project-HTML-CSS)
-**Deployed link:** [01-Project-link](https://manishdashsharma.github.io/01-Project-HTML-CSS/)
+
+1. **Project:** 01-Project&nbsp;
+**Project descriptions:** Html and css .&nbsp;
+**CodeBase:** [01-Project](https://github.com/manishdashsharma/01-Project-HTML-CSS)&nbsp;
+**Deployed link:** [01-Project-link](https://manishdashsharma.github.io/01-Project-HTML-CSS/)&nbsp;
 **Output:**![01-Project](./image/Project1.png)&nbsp;
 
-2. **Project:** 02-Project
-**Project descriptions:** Html and css .
-**CodeBase:** [02-Project](https://github.com/manishdashsharma/02-Project-HTML-CSS)
-**Deployed link:** [02-Project-link](https://manishdashsharma.github.io/02-Project-HTML-CSS/)
+2. **Project:** 02-Project&nbsp;
+**Project descriptions:** Html and css .&nbsp;
+**CodeBase:** [02-Project](https://github.com/manishdashsharma/02-Project-HTML-CSS)&nbsp;
+**Deployed link:** [02-Project-link](https://manishdashsharma.github.io/02-Project-HTML-CSS/)&nbsp;
 **Output:**![02-Project](./image/Project2.png)&nbsp;
 
-3. **Project:** 03-Project
-**Project descriptions:** Html and css .
-**CodeBase:** [03-Project](https://github.com/manishdashsharma/03-Project-HTML-CSS)
-**Deployed link:** [03-Project-link](https://manishdashsharma.github.io/03-Project-HTML-CSS/)
+3. **Project:** 03-Project&nbsp;
+**Project descriptions:** Html and css .&nbsp;
+**CodeBase:** [03-Project](https://github.com/manishdashsharma/03-Project-HTML-CSS)&nbsp;
+**Deployed link:** [03-Project-link](https://manishdashsharma.github.io/03-Project-HTML-CSS/)&nbsp;
 **Output:**![03-Project](./image/Project3.png)&nbsp;
 
-4. **Project:** 04-Project
-**Project descriptions:** Html and css .
-**CodeBase:** [04-Project](https://github.com/manishdashsharma/04-Project-HTML-CSS)
-**Deployed link:** [04-Project-link](https://manishdashsharma.github.io/04-Project-HTML-CSS/)
+4. **Project:** 04-Project&nbsp;
+**Project descriptions:** Html and css .&nbsp;
+**CodeBase:** [04-Project](https://github.com/manishdashsharma/04-Project-HTML-CSS)&nbsp;
+**Deployed link:** [04-Project-link](https://manishdashsharma.github.io/04-Project-HTML-CSS/)&nbsp;
 **Output:**![04-Project](./image/Project4.png)&nbsp;
 
-5. **Project:** 05-Project
-**Project descriptions:** Html and css .
-**CodeBase:** [05-Project](https://github.com/manishdashsharma/05-Project-HTML-CSS)
-**Deployed link:** [05-Project-link](https://manishdashsharma.github.io/05-Project-HTML-CSS/)
+5. **Project:** 05-Project&nbsp;
+**Project descriptions:** Html and css .&nbsp;
+**CodeBase:** [05-Project](https://github.com/manishdashsharma/05-Project-HTML-CSS)&nbsp;
+**Deployed link:** [05-Project-link](https://manishdashsharma.github.io/05-Project-HTML-CSS/)&nbsp;
 **Output:**![05-Project](./image/Project5.png)&nbsp;
 
-6. **Project:** 06-Project
-**Project descriptions:** Html and css .
-**CodeBase:** [06-Project](https://github.com/manishdashsharma/06-Project-HTML-CSS)
-**Deployed link:** [06-Project-link](https://manishdashsharma.github.io/06-Project-HTML-CSS/)
+6. **Project:** 06-Project&nbsp;
+**Project descriptions:** Html and css .&nbsp;
+**CodeBase:** [06-Project](https://github.com/manishdashsharma/06-Project-HTML-CSS)&nbsp;
+**Deployed link:** [06-Project-link](https://manishdashsharma.github.io/06-Project-HTML-CSS/)&nbsp;
 **Output:**![06-Project](./image/Project6.png)&nbsp;
 
-7. **Project:** 07-Project
+7. **Project:** 07-Project&nbsp;
 **Project descriptions:** Html and Tailwind-CSS .
-**CodeBase:** [07-Project-tailwind](https://github.com/manishdashsharma/06-Project-HTML-CSS)
-**Deployed link:** [07-Project-link-tailwind](https://manishdashsharma.github.io/06-Project-HTML-CSS/)
+**CodeBase:** [07-Project-tailwind](https://github.com/manishdashsharma/06-Project-HTML-CSS)&nbsp;
+**Deployed link:** [07-Project-link-tailwind](https://manishdashsharma.github.io/06-Project-HTML-CSS/)&nbsp;
 **Output:**![07-Project](./image/Project7.png)&nbsp;
 ### Blogs
 
