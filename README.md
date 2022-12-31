@@ -48,13 +48,13 @@
 **Project:** 08-Project<br>
 **Project descriptions:** Credit Card landing page using Html and CSS .<br>
 **CodeBase:** [08-Project](https://github.com/manishdashsharma/08-Project-HTML-CreditCard)<br>
-**Deployed link:** [08-Project-link-tailwind](https://manishdashsharma.github.io/08-Project-HTML-CreditCard/)<br>
+**Deployed link:** [08-Project](https://manishdashsharma.github.io/08-Project-HTML-CreditCard/)<br>
 **Output:**![08-Project](./image/Project8.png)&nbsp;
 
 **Project:** 09-Project<br>
 **Project descriptions:** Hosting landing page using Html and CSS .<br>
 **CodeBase:** [09-Project](https://github.com/manishdashsharma/09-Project-HTML-Hosting-Landing-Page)<br>
-**Deployed link:** [09-Project-link-tailwind](https://manishdashsharma.github.io/09-Project-HTML-Hosting-Landing-Page/)<br>
+**Deployed link:** [09-Project](https://manishdashsharma.github.io/09-Project-HTML-Hosting-Landing-Page/)<br>
 **Output:**![09-Project](./image/Project9.png)&nbsp;
 
 **Project:** 10-Project<br>
